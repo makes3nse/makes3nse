@@ -13,4 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/6639344b-928c-4417-8cea-123d258b053c" />
+<img width="1280" height="720" alt="ezgif-5d32293e085e7996" src="https://github.com/user-attachments/assets/3a045287-7056-4658-bbbf-46661cad9684" />
+
+
