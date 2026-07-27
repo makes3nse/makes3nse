@@ -1,6 +1,7 @@
 <img width="1280" height="720" alt="ezgif-5d32293e085e7996" src="https://github.com/user-attachments/assets/3a045287-7056-4658-bbbf-46661cad9684" />
 
-<br/>  
+<br/>
+
 <div align="center">
 <a href="https://www.linkedin.com/in/makes3nse" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" /></a>
